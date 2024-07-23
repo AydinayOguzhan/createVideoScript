@@ -1,0 +1,5 @@
+pyttsx3
+pysrt
+pillow
+numpy
+moviepy

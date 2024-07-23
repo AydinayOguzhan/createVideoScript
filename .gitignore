@@ -1,0 +1,34 @@
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore sound files
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Ignore subtitle files
+*.srt
+*.sub
+*.ssa
+*.ass
+
+# Ignore temporary and log files
+*.tmp
+*.log
+*.bak
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore IDE/editor configurations
+.vscode/
+.idea/
